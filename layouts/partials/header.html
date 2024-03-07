@@ -1,0 +1,14 @@
+<section id="custom_head" class="flex-container">
+<div class="left-column">
+  <a href="{{ "" | relURL }}" class="title">
+    <h2>{{ .Site.Title }}</h2>
+  </a>
+  <nav>{{- partial "nav.html" . -}}</nav>
+  <hr class="hr_title"/>
+</div>
+<div class="right-column">
+  {{ with .Site.Params.titleimage }}
+  <img src="{{ . | absURL }}" alt="Your Image" class="custom-image">{{ end }}
+</div>
+</section>
+

@@ -1,0 +1,33 @@
+baseURL = 'https://shkamath.github.io'
+languageCode = 'en-us'
+title = 'Siddharth Kamath'
+author = 'Siddharth Kamath'
+copyright = 'Copyright © {year}; All rights reserved.'
+
+[menu]
+
+    [[menu.main]]
+        identifier="projects"
+        name="Projects"
+        url="/projects/"
+        weight = 1
+    [[menu.main]]
+        identifier="patents"
+        name="Patents"
+        url="/patents/"
+        weight = 2
+    [[menu.main]]
+        identifier="resume"
+        name="Resume"
+        url="Resume_Siddharth_Kamath.pdf"
+        weight = 3
+    [[menu.main]]
+        identifier="blog"
+        name="Blog"
+        url="404"
+        weight = 4
+    
+[params]
+    description = "Personal portfolio webpage of Siddharth Kamath"
+    favicon = "image/favicon.png"
+    titleimage = "image/croping45.png"

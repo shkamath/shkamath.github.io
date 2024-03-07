@@ -1,0 +1,5 @@
+**Hey there! I'm a Sid**, a RF Embedded Software Engineer at [Apple Inc.](https://www.apple.com) I have a Masters Degree in Electrical Engineering specializing in Wireless Sensor Networks from [UNC Charlotte](https://www.uncc.edu). I've spent a decade working with [Qualcomm Technologies Inc.](https://www.qualcomm.com) building embedded applications for the modem product which enables cellular communications in mobile phones.
+
+Embedded Systems have always intrigued me into thinking out of the box and though academic, I have tried my hands on a couple of embedded systems projects which you can find right [here](/projects/). Professional projects and achievements have been listed on my [resume](Resume_Siddharth_Kamath.pdf).
+
+Before grad school I had a brief stint as a Systems Administrator at [Reliance Industries Ltd.](http://ril.com) in the Oil & Gas Exploration and Production department. My undergraduate internship at [Larsen &amp; Toubro](https://www.larsentoubro.com/) in Mumbai made me realize that embedded system design and programming was what I enjoyed most.
